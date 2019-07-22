@@ -13,6 +13,8 @@
  - 16-bit 6 channel PWM.
  - 6uA in power-down mode.
  - TSSOP20 and QFN20 compact package.
+<br><br>
+https://direct.nuvoton.com/en/n76e003at20
 https://www.nuvoton.com/hq/products/microcontrollers/8bit-8051-mcus/low-pin-count-8051-series/n76e003
 ## SDCC
 http://sdcc.sourceforge.net
