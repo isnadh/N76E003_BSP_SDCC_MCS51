@@ -1,8 +1,8 @@
 # Nuvoton N76E003 BSP for SDCC
 ## Benefits using SDCC
- - Cross platform included Windows, Linux or OS X.
- - Fully free and open source.
- - Compact code size
+ - Cross platform included Windows, Linux and OS X.
+ - Fully free, no code size limit  and open source.
+ - Compact code size.
 ## Nuvoton N76E003
  - 1T machine cycle enhanced 8051 microcontroller.
  - Internal 16MHz high-speed oscillator.
