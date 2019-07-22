@@ -3,7 +3,9 @@
  - Cross platform included Windows, Linux and OS X.
  - Fully free, no code size limit  and open source.
  - Compact code size.
-## Nuvoton N76E003
+<br><br>
+http://sdcc.sourceforge.net
+## Benefits of Nuvoton N76E003
  - 1T machine cycle enhanced 8051 microcontroller.
  - Internal 16MHz high-speed oscillator.
  - Internal 10KHz low-speed oscillator provide low power operating.
@@ -16,5 +18,3 @@
 <br><br>
 https://direct.nuvoton.com/en/n76e003at20<br>
 https://www.nuvoton.com/hq/products/microcontrollers/8bit-8051-mcus/low-pin-count-8051-series/n76e003
-## SDCC
-http://sdcc.sourceforge.net
