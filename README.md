@@ -10,7 +10,7 @@ http://sdcc.sourceforge.net
  - Internal 16MHz high-speed oscillator.
  - Internal 10KHz low-speed oscillator provide low power operating.
  - 18KB program memory (flash) / 1KB data memory (SRAM).
- - Two UARTs and one IIC.
+ - Two UARTs and one IIC interface.
  - 12-bit ADC with 8 channel input.
  - 16-bit 6 channel PWM.
  - 6uA in power-down mode.
